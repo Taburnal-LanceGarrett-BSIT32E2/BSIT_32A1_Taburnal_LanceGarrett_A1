@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1, h2 {
+    margin-top: 20px;
+}
+
+section {
+    padding: 40px 0;
+}
+
+footer {
+    margin-top: 20px;
+}
